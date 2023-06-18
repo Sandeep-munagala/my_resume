@@ -1,0 +1,71 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	padding: 5px;
+	border: 1px solid black;
+}
+.first{
+	height: 320px;
+}
+.second{
+	height: 130px;
+}
+.third{
+	height: 200px;
+}
+.fourth{
+	height: 200px;
+}
+.head1{
+	text-align: center;
+	border-bottom: 5px double black;
+}
+.p1 {
+	float: right;
+}
+.name,.email,.number,.dob,.linkedin,.github{
+	margin-left: 20px;
+	margin-bottom: 10px;
+
+}
+img {
+	position: relative;
+	top:0;
+	float: right;
+
+}
+.profile,.skill,.edu {
+	text-align: left;
+	border-bottom: 5px double black;
+}
+.team {
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+.sub{
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+li {
+	margin-bottom: 10px;
+}
+.space{
+	margin-left: 150px;
+}
+.list2{
+	float: right;
+	position: relative;
+	top: -50px;
+}
+.list4{
+	float: right;
+	position: relative;
+	top: -50px;
+	left: -50px;
+}
+.year{
+	width: 50%;
+}
